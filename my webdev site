@@ -9,7 +9,8 @@
         </head>
          <header class="hero">
     <h1>Stephanie Meeks</h1>
-    <p>Full Stack Developer</p>
+    <p>Front-end Developer</p>
+    <p>Learning full stack</p>
     <a href="#projects" class="button">View My Work</a>
   </header>
 
@@ -23,7 +24,7 @@
 
     <div class="card">
       <h3>Simple Cafe Mockup</h3>
-      <p>This is a simpilfied mockup of a cafe website I built.</p>
+      <p>This is a simplified mockup of a cafe website I built.</p>
       <link href="cafemockup.netlify.app">cafemockup.netlify.app</link>
     </div>
 
