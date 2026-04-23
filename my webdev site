@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html land="en">
-    
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>slmeeksdev</title>
-            <link rel="stylesheet" href="styles.css">
-        </head>
-         <header class="hero">
-    <h1>Stephanie Meeks</h1>
-    <p>Front-end Developer</p>
-    <p>Learning full stack</p>
-    <a href="#projects" class="button">View My Work</a>
-  </header>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I build modern, clean, custom-coded websites.</p>
-  </section>
-
-  <section id="projects">
-    <h2>Projects</h2>
-
-    <div class="card">
-      <h3>Simple Cafe Mockup</h3>
-      <p>This is a simplified mockup of a cafe website I built.</p>
-      <link href="cafemockup.netlify.app">cafemockup.netlify.app</link>
-    </div>
-
-    <div class="card">
-      <h3>For the Plot Development</h3>
-      <p>This is my own website I created to advertise building sites for authors.</p>
-      <link href="https://fortheplotdevelopment.com/"For the Plot Development</link>
-    </div>
-
-  </section>
-
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: stephlmeeks@gmail.com</p>
-  </section>
-
-    
-</html>
 
 
 
