@@ -23,13 +23,14 @@
 
     <div class="card">
       <h3>Simple Cafe Mockup</h3>
-      <p>This is a simpilized mockup of a cafe website I built.</p>
+      <p>This is a simpilfied mockup of a cafe website I built.</p>
       <link href="cafemockup.netlify.app">cafemockup.netlify.app</link>
     </div>
 
     <div class="card">
-      <h3>Project Two</h3>
-      <p>Short description of your project.</p>
+      <h3>For the Plot Development</h3>
+      <p>This is my own website I created to advertise building sites for authors.</p>
+      <link href="https://fortheplotdevelopment.com/"For the Plot Development</link>
     </div>
 
   </section>
