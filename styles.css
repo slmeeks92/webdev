@@ -130,6 +130,7 @@ h2::after {
   left: -50%;
   opacity: 0;
   transition: 0.4s;
+  pointer-events: none; /* 👈 THIS FIXES IT */
 }
 
 .card:hover::before {
