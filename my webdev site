@@ -22,8 +22,9 @@
     <h2>Projects</h2>
 
     <div class="card">
-      <h3>Project One</h3>
-      <p>Short description of your project.</p>
+      <h3>Simple Cafe Mockup</h3>
+      <p>This is a simpilized mockup of a cafe website I built.</p>
+      <link href="cafemockup.netlify.app">cafemockup.netlify.app</link>
     </div>
 
     <div class="card">
